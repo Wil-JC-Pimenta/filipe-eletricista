@@ -82,6 +82,7 @@ nav ul li a {
   transition: all 0.5s ease-in-out 0s;
 }
 #title{
+  align-items: center;
   font-size: 1.8em;
   box-shadow: #292929;
   color: #0004fd;
@@ -276,14 +277,14 @@ nav ul li a {
 }
 
 .header-content p {
-  font-size: 13px;
+  font-size: 20px;
   letter-spacing: 5px;
   margin-top: 0;
   margin-bottom: 30px;
   text-transform: capitalize;
-  color: #1e00ff;
-  box-shadow: #333;
-  font-weight: 500;
+  color: #120bd4;
+  box-shadow: hsl(0, 14%, 95%);
+  font-weight: 800;
 }
 
 .header-content .list-social li {
@@ -581,6 +582,15 @@ nav ul li a {
   font-weight: 400;
   font-size: 13px;
 }
+
+#whats-img{
+width: 8%;
+height: 8%;
+padding: 2%;
+margin:2%;
+}
+
+
 
 /*-----------------------------------------------------------------------------------*/
 /*  Footer
