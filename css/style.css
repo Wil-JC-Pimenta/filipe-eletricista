@@ -81,6 +81,17 @@ nav ul li a {
   -webkit-transition: all 0.5s ease-in-out 0s;
   transition: all 0.5s ease-in-out 0s;
 }
+#title{
+  font-size: 1.8em;
+  box-shadow: #292929;
+  color: #0004fd;
+  display:flexbox;
+  padding: 1%;
+  margin:1%;
+}
+
+
+
 
 p {
   margin: 25px 0;
